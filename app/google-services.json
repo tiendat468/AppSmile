@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693973375885",
+    "project_id": "lab8-ungdung",
+    "storage_bucket": "lab8-ungdung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693973375885:android:9461a653024fcf1304fbc4",
+        "android_client_info": {
+          "package_name": "com.example.lab8_ungdungdongian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693973375885-fag1sipc82btb7v7ofgalucn7o6h65or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6DDQnMrrqOhH6ImPgTPQ-Pnp_iVFytbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693973375885-fag1sipc82btb7v7ofgalucn7o6h65or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
